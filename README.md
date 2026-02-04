@@ -1,8 +1,10 @@
 # Slog App Release Page
 
-Slog is an excellent Markdown editor, and we are releasing it here.
+Write. Link. Think. 
 
-Click Releases on the right to go to the release page.
+A local-first Markdown note-taking app and knowledge base, with optional AI assistance.
+
+---
 
 Find the installer in the Assets section to download.
 
